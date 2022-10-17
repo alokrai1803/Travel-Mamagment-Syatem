@@ -1,2 +1,2 @@
-# Travel-Mamagment-Syatem
-Travel Management System using Php
+# Travel-Mamagment-System
+Travel Management System 
